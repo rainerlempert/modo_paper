@@ -15,11 +15,10 @@ vancouver_map=get_map(location="vancouver", maptype="roadmap", zoom=11) #create 
 
 ggmap(vancouver_map, extent = "device")+geom_point(aes(x = Longitude, y = Latitude), colour = "red", alpha = 0.1, size = 2, data = launch_table)
 
-ggmap(vancouver_map, extent = "device")+geom_point(aes(x = Longitude, y = Latitude), colour = "red", alpha = 0.1, size = 2, data = launch_table)+scale_x_continuous(limits = c(-123.276002,-122.904250), expand = c(0, 0))+scale_y_continuous(limits=c(49.214039,49.345409),expand=c(0,0))
 
 ggmap(vancouver_map, extent = "device")+
 geom_density2d(data=launch_table,aes(x=Longitude,y=Latitude), size=0.3)+
 stat_density2d(data=launch_table,aes(x=Longitude,y=Latitude,fill=..level..,alpha=..level..),size=0.01,bins=24,geom="polygon")+
-scale_fill_gradient(low="green",high="red",guide=FALSE)+scale_alpha(range=c(0,0.3),guide=FALSE)+scale_x_continuous(limits = c(-123.276002,-122.904250), expand = c(0, 0))+scale_y_continuous(limits=c(49.214039,49.345409),expand=c(0,0))
+scale_fill_gradient(low="green",high="red",guide=FALSE)+scale_alpha(range=c(0,0.3),guide=FALSE)
 ```
 
