@@ -1,0 +1,543 @@
+"","X.1","First.Launched","Last.Used","Location.ID","Location.Name","Neighbourhood","City","Region","Latitude","Longitude","X","Notes.","location_counter","location_counter","location_counter"
+"1",1,"6/8/17 10:30","",553,"Richmond Hospital","Richmond","Richmond","Lower Mainland",49.16812,-123.147438,NA,"Blanks under ""First Launched"" were locations in use on October 1st, 2001, when our data begin.",53,0,0
+"2",2,"6/6/17 13:45","",588,"Gorge Washington","Burnside","Victoria","Greater Victoria",48.442409,-123.381756,NA,"Blanks under ""Last Used"" are locations in use as of June 8th, 2017.",116,0,0
+"3",3,"6/5/17 14:15","",581,"Acadia Commons Block","East Campus","UBC","Lower Mainland",49.262815,-123.236844,NA,"",408,0,0
+"4",4,"6/3/17 13:45","",587,"Bayshore & Cardero","Coal Harbour","Vancouver","Lower Mainland",49.291348,-123.129413,NA,"",1651,0,0
+"5",5,"6/1/17 14:15","",584,"Eveleigh","Coal Harbour","Vancouver","Lower Mainland",49.286898,-123.120532,NA,"",1438,0,0
+"6",6,"6/1/17 13:30","",585,"Sidney Town Hall","Sidney","Sidney","Greater Victoria",48.650693,-123.398998,NA,"",9,0,0
+"7",7,"6/1/17 13:30","",586,"Sidney Fire Hall","Sidney","Sidney","Greater Victoria",48.649414,-123.39778,NA,"",8,0,0
+"8",8,"6/1/17 12:00","",549,"Red Alder Trail","Killarney","Vancouver","Lower Mainland",49.209342,-123.02859,NA,"",31,0,0
+"9",9,"5/29/17 12:30","",579,"1067 Seymour","Downtown Vancouver","Vancouver","Lower Mainland",49.278009,-123.123213,NA,"",2006,0,0
+"10",10,"5/24/17 9:00","",578,"Oak Bay Rec Centre","Oak Bay","Oak Bay","Greater Victoria",48.431148,-123.321391,NA,"",150,0,0
+"11",11,"5/19/17 14:30","",577,"Royal Oak Safeway","Royal Oak","Burnaby","Lower Mainland",49.225004,-122.988055,NA,"",122,0,0
+"12",12,"5/18/17 8:45","",575,"Kamloops & Broadway","Hastings-Sunrise","Vancouver","Lower Mainland",49.262222,-123.054645,NA,"",394,0,0
+"13",13,"5/17/17 17:15","",576,"Expo Boulevard","Yaletown","Vancouver","Lower Mainland",49.274301,-123.116827,NA,"",1535,0,0
+"14",14,"5/17/17 12:15","",573,"West Parkade","Main Campus","UBC","Lower Mainland",49.262751,-123.255363,NA,"",253,0,0
+"15",15,"5/17/17 12:15","",574,"Rose Garden Parkade","Main Campus","UBC","Lower Mainland",49.269443,-123.256546,NA,"",110,0,0
+"16",16,"5/15/17 17:45","",507,"Telus Garden Residences","Downtown Vancouver","Vancouver","Lower Mainland",49.280619,-123.11756,NA,"",1692,0,0
+"17",17,"5/12/17 17:15","",557,"W 15th & Granville","Fairview","Vancouver","Lower Mainland",49.257937,-123.137796,NA,"",855,0,0
+"18",18,"5/12/17 16:00","",568,"Kaslo & Charles","Hastings-Sunrise","Vancouver","Lower Mainland",49.273137,-123.046925,NA,"",272,0,0
+"19",19,"5/5/17 15:00","5/26/17 15:00",572,"Burnside & Finlayson","Burnside","Victoria","Greater Victoria",48.44385,-123.3724,NA,"",77,0,0
+"20",20,"5/1/17 14:45","",559,"Grindstone Cafe","Downtown Victoria","Victoria","Greater Victoria",48.43048,-123.369497,NA,"",327,0,0
+"21",21,"5/1/17 0:00","",560,"Departure Bay Ferry","Newcastle","Nanaimo","Nanaimo",49.188597,-123.951027,NA,"",2,0,0
+"22",22,"5/1/17 0:00","",561,"Port Place Mall","Nanaimo City Centre","Nanaimo","Nanaimo",49.164261,-123.934194,NA,"",23,0,0
+"23",23,"5/1/17 0:00","",562,"Prideaux Exchange","Nanaimo City Centre","Nanaimo","Nanaimo",49.163592,-123.942808,NA,"",29,0,0
+"24",24,"5/1/17 0:00","",563,"Pacific Gardens Cohousing","Harewood","Nanaimo","Nanaimo",49.146972,-123.941292,NA,"",17,0,0
+"25",25,"4/24/17 15:00","",547,"Mount Saint Joseph - West Entrance","Mount Pleasant","Vancouver","Lower Mainland",49.25756,-123.096406,NA,"",1151,0,0
+"26",26,"4/19/17 9:00","",558,"Bay Centre","Downtown Victoria","Victoria","Greater Victoria",48.4251,-123.366514,NA,"",473,0,0
+"27",27,"4/13/17 21:30","",551,"Oceanside Apartments","West End","Vancouver","Lower Mainland",49.28879,-123.141133,NA,"",1714,0,0
+"28",28,"4/13/17 17:15","",566,"W 10th & Discovery","West Point Grey","Vancouver","Lower Mainland",49.263796,-123.202765,NA,"",189,0,0
+"29",29,"4/13/17 17:00","",550,"Dieppe","Renfrew-Collingwood","Vancouver","Lower Mainland",49.256374,-123.026516,NA,"",71,0,0
+"30",30,"4/10/17 17:00","",565,"Sunset Park","Sunset","Vancouver","Lower Mainland",49.223638,-123.096727,NA,"",150,0,0
+"31",31,"4/7/17 18:45","",564,"Slocan & Vanness","Renfrew-Collingwood","Vancouver","Lower Mainland",49.245664,-123.049687,NA,"",236,0,0
+"32",32,"3/24/17 18:00","",554,"National & Quebec","False Creek","Vancouver","Lower Mainland",49.274908,-123.101618,NA,"",985,0,0
+"33",33,"3/24/17 17:45","",555,"Callister Park","Hastings-Sunrise","Vancouver","Lower Mainland",49.28593,-123.044193,NA,"",190,0,0
+"34",34,"3/22/17 16:45","",556,"E-Comm","Hastings-Sunrise","Vancouver","Lower Mainland",49.280078,-123.033877,NA,"",132,0,0
+"35",35,"3/10/17 21:15","",539,"Wall Centre Central Park","Renfrew-Collingwood","Vancouver","Lower Mainland",49.233522,-123.023939,NA,"",273,0,0
+"36",36,"2/24/17 15:15","",536,"Vancity Victoria Drive","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.234043,-123.064906,NA,"",132,0,0
+"37",37,"1/28/17 15:00","",537,"Irving Park","James Bay","Victoria","Greater Victoria",48.417131,-123.373362,NA,"",328,0,0
+"38",38,"1/17/17 17:00","",538,"Haultain & Shelbourne","Jubilee","Victoria","Greater Victoria",48.436026,-123.333065,NA,"",177,0,0
+"40",40,"1/9/17 21:30","",542,"SFU CentreBlock","SFU","Burnaby","Lower Mainland",49.278228,-122.90949,NA,"",113,0,0
+"41",41,"1/4/17 16:30","",533,"Magnolia House","Wesbrook Place","UBC","Lower Mainland",49.252039,-123.233351,NA,"",188,0,0
+"42",42,"1/4/17 16:30","5/18/17 19:15",540,"InGastown","Downtown Eastside","Vancouver","Lower Mainland",49.281941,-123.100503,NA,"",806,0,0
+"43",43,"12/30/16 15:00","",534,"Vic West Community Centre","Victoria West","Victoria","Greater Victoria",48.436413,-123.387593,NA,"",166,0,0
+"44",44,"12/2/16 16:00","",530,"Lafarge Lake-Douglas SkyTrain","Coquitlam Town Centre","Coquitlam","Lower Mainland",49.284672,-122.791573,NA,"",90,0,0
+"45",45,"12/2/16 15:00","",529,"Burquitlam SkyTrain","Cariboo-Burquitlam","Coquitlam","Lower Mainland",49.260361,-122.890517,NA,"",94,0,0
+"46",46,"12/2/16 13:30","",466,"Moody Centre Station","Port Moody","Port Moody","Lower Mainland",49.277195,-122.845083,NA,"",73,0,0
+"47",47,"12/2/16 13:30","",524,"Newport Village","Port Moody","Port Moody","Lower Mainland",49.282463,-122.827104,NA,"",158,0,0
+"48",48,"12/1/16 17:45","",531,"Lincoln SkyTrain","Coquitlam Town Centre","Coquitlam","Lower Mainland",49.280245,-122.793532,NA,"",82,0,0
+"49",49,"11/24/16 17:00","",528,"Mainwaring Substation","Sunset","Vancouver","Lower Mainland",49.225904,-123.08001,NA,"",92,0,0
+"50",50,"11/7/16 12:30","",526,"Reflections","Hawthorn Place","UBC","Lower Mainland",49.25857,-123.246834,NA,"",470,0,0
+"51",51,"10/26/16 14:30","",525,"New West Power Station","Glenbrooke North","New Westminster","Lower Mainland",49.22131,-122.916733,NA,"",90,0,0
+"52",52,"10/12/16 15:30","",384,"Berton & Wesbrook","Wesbrook Place","UBC","Lower Mainland",49.255291,-123.234782,NA,"",336,0,0
+"53",53,"10/6/16 17:15","",522,"MakerLabs","Downtown Eastside","Vancouver","Lower Mainland",49.281883,-123.087329,NA,"",401,0,0
+"54",54,"10/4/16 13:30","",523,"Capitol & Springer","Capitol Hill","Burnaby","Lower Mainland",49.28089,-122.988233,NA,"",87,0,0
+"55",55,"9/19/16 14:00","",520,"Rutledge Park","Saanich Core","Saanich","Greater Victoria",48.452203,-123.36342,NA,"",73,0,0
+"56",56,"9/2/16 11:15","",519,"1315 Broughton @ Harwood","West End","Vancouver","Lower Mainland",49.282578,-123.13842,NA,"",2133,0,0
+"57",57,"8/30/16 18:45","",518,"City Hall - Cambie & 12th Ave","Mount Pleasant","Vancouver","Lower Mainland",49.260756,-123.114494,NA,"",1247,0,0
+"58",58,"8/26/16 20:45","",517,"1333 Jervis","West End","Vancouver","Lower Mainland",49.281253,-123.137762,NA,"",2086,0,0
+"59",59,"8/23/16 17:30","",516,"Richmond City Hall","Richmond","Richmond","Lower Mainland",49.163435,-123.138841,NA,"",88,0,0
+"60",60,"8/8/16 9:00","",514,"King George SkyTrain","Surrey City Centre","Surrey","Lower Mainland",49.181963,-122.842988,NA,"",100,0,0
+"61",61,"8/5/16 17:30","",469,"Hull","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.252011,-123.064705,NA,"",455,0,0
+"62",62,"8/4/16 17:00","",515,"Speedy Auto","Burnside","Victoria","Greater Victoria",48.443584,-123.370191,NA,"",74,0,0
+"63",63,"7/29/16 18:00","",493,"Tenth St & Oxford","Brow of the Hill","New Westminster","Lower Mainland",49.205404,-122.921742,NA,"",474,0,0
+"64",64,"7/27/16 16:45","",512,"Mount Saint Joseph - North Lot","Mount Pleasant","Vancouver","Lower Mainland",49.258613,-123.095086,NA,"",1194,0,0
+"65",65,"7/26/16 8:45","",510,"Elliot & Dickenson","Downtown New Westminster","New Westminster","Lower Mainland",49.207691,-122.903072,NA,"",285,0,0
+"66",66,"7/22/16 13:15","",456,"Aviara","Brentwood","Burnaby","Lower Mainland",49.268408,-123.013638,NA,"",152,0,0
+"67",67,"7/18/16 11:00","",511,"SFU Surrey","Surrey City Centre","Surrey","Lower Mainland",49.188507,-122.850506,NA,"",149,0,0
+"68",68,"7/4/16 14:00","",509,"Dover House","Fernwood","Victoria","Greater Victoria",48.42558,-123.352017,NA,"",528,0,0
+"69",69,"6/25/16 10:00","",506,"Eagles & East Mall","Hawthorn Place","UBC","Lower Mainland",49.258215,-123.24481,NA,"",510,0,0
+"70",70,"6/17/16 15:00","",403,"Meccanica","False Creek","Vancouver","Lower Mainland",49.269779,-123.102532,NA,"",994,0,0
+"71",71,"6/2/16 14:00","",504,"Esticana","West End","Vancouver","Lower Mainland",49.284862,-123.130413,NA,"",2575,0,0
+"72",72,"5/29/16 12:30","",505,"Convent Place","Fairfield","Victoria","Greater Victoria",48.417889,-123.36058,NA,"",471,0,0
+"73",73,"5/18/16 16:30","",503,"School Green","False Creek","Vancouver","Lower Mainland",49.266334,-123.12733,NA,"",1188,0,0
+"74",74,"5/3/16 13:30","",502,"Lions Gate Hospital","Central Lonsdale","North Vancouver","Lower Mainland",49.321876,-123.067724,NA,"",181,0,0
+"75",75,"4/26/16 16:00","",495,"Swartz Bay Ferry","Swartz Bay","North Saanich","Greater Victoria",48.685706,-123.411133,NA,"",2,0,0
+"76",76,"4/22/16 14:00","",501,"Phibbs Exchange - Oxford","Lynn Creek","North Vancouver","Lower Mainland",49.305602,-123.030003,NA,"",20,0,0
+"77",77,"4/21/16 15:00","",472,"UBC Bookstore","Main Campus","UBC","Lower Mainland",49.264795,-123.249561,NA,"",417,0,0
+"78",78,"4/20/16 10:00","",491,"Bowker Manor","Oak Bay","Oak Bay","Greater Victoria",48.434071,-123.314883,NA,"",91,0,0
+"79",79,"4/18/16 13:30","",500,"Victory Square","Downtown Vancouver","Vancouver","Lower Mainland",49.282616,-123.110629,NA,"",1084,0,0
+"80",80,"4/14/16 16:00","",499,"Phibbs Exchange - Alleyway","Lynn Creek","North Vancouver","Lower Mainland",49.305256,-123.030174,NA,"",20,0,0
+"81",81,"4/5/16 12:00","",494,"Tsawwassen Ferry","Tsawwassen","Tsawwassen","Lower Mainland",49.009045,-123.126439,NA,"",0,0,0
+"82",82,"4/4/16 6:30","",498,"Bentall 5","Downtown Vancouver","Vancouver","Lower Mainland",49.285567,-123.117661,NA,"",1340,0,0
+"83",83,"3/15/16 16:30","",487,"The Gorge","Burnside","Victoria","Greater Victoria",48.442986,-123.382998,NA,"",102,0,0
+"84",84,"2/29/16 13:00","",496,"Romer's River District","Killarney","Vancouver","Lower Mainland",49.206213,-123.042481,NA,"",46,0,0
+"85",85,"2/29/16 13:00","",497,"Jellicoe & Kent","Killarney","Vancouver","Lower Mainland",49.206482,-123.04763,NA,"",49,0,0
+"86",86,"2/22/16 13:00","",486,"Oxford & Moss","Fairfield","Victoria","Greater Victoria",48.413306,-123.349549,NA,"",242,0,0
+"87",87,"2/12/16 17:30","",492,"City Centre Community Centre","Richmond","Richmond","Lower Mainland",49.171352,-123.139398,NA,"",90,0,0
+"88",88,"2/5/16 13:00","",489,"Pioneer Square","Downtown Victoria","Victoria","Greater Victoria",48.423223,-123.359936,NA,"",580,0,0
+"89",89,"1/15/16 15:00","",481,"Mountain View Cemetery","Riley Park","Vancouver","Lower Mainland",49.240445,-123.096741,NA,"",347,0,0
+"90",90,"1/13/16 13:00","",490,"1250 Comox","West End","Vancouver","Lower Mainland",49.283419,-123.132524,NA,"",2568,0,0
+"91",91,"12/21/15 17:30","",485,"Station Square","Metrotown","Burnaby","Lower Mainland",49.228242,-123.001946,NA,"",317,0,0
+"92",92,"12/18/15 18:00","",488,"Railtown","Strathcona","Vancouver","Lower Mainland",49.283537,-123.090518,NA,"",447,0,0
+"93",93,"12/16/15 11:30","",483,"Toronto & Huntington","James Bay","Victoria","Greater Victoria",48.415903,-123.367294,NA,"",411,0,0
+"94",94,"12/8/15 18:30","",482,"Pacific House","Cariboo-Burquitlam","Coquitlam","Lower Mainland",49.24857,-122.889733,NA,"",186,0,0
+"95",95,"12/4/15 11:00","",480,"The One","False Creek","Vancouver","Lower Mainland",49.269843,-123.105197,NA,"",1060,0,0
+"96",96,"11/13/15 19:00","",479,"Solo Stratus - Whole Foods","Brentwood","Burnaby","Lower Mainland",49.265703,-123.005481,NA,"",172,0,0
+"97",97,"11/13/15 15:30","",477,"Cherry Hill","Renfrew-Collingwood","Vancouver","Lower Mainland",49.238948,-123.044772,NA,"",198,0,0
+"98",98,"11/8/15 22:00","",478,"Walter Gage Road","Main Campus","UBC","Lower Mainland",49.270642,-123.248469,NA,"",171,0,0
+"99",99,"11/5/15 12:00","",476,"Kingcrest Park","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.247429,-123.073482,NA,"",390,0,0
+"100",100,"11/3/15 16:30","",475,"Neon","Downtown Vancouver","Vancouver","Lower Mainland",49.275997,-123.128519,NA,"",1893,0,0
+"101",101,"11/2/15 17:00","",471,"Kerrisdale Arena","Kerrisdale","Vancouver","Lower Mainland",49.235113,-123.155186,NA,"",137,0,0
+"102",102,"10/21/15 14:00","",474,"Glen & E 21st","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.251648,-123.081806,NA,"",535,0,0
+"103",103,"10/14/15 16:00","",376,"Sapperton Triangle","Sapperton","New Westminster","Lower Mainland",49.23202,-122.89383,NA,"",119,0,0
+"104",104,"10/9/15 8:00","",473,"RedBrick Parkade","Edmonds","Burnaby","Lower Mainland",49.21025,-122.952971,NA,"",235,0,0
+"105",105,"9/30/15 16:30","",467,"Queens & Quadra","North Park","Victoria","Greater Victoria",48.433957,-123.358498,NA,"",345,0,0
+"106",106,"9/30/15 15:30","",470,"Bellevue Towers","West Point Grey","Vancouver","Lower Mainland",49.264314,-123.213345,NA,"",160,0,0
+"107",107,"9/26/15 9:30","",457,"Tennyson Field","Kitsilano","Vancouver","Lower Mainland",49.26177,-123.150652,NA,"",930,0,0
+"108",108,"9/18/15 16:30","",462,"New City Hall Parking Level 1","Surrey City Centre","Surrey","Lower Mainland",49.191371,-122.849053,NA,"",163,0,0
+"109",109,"9/11/15 12:30","",468,"Westminster Pier Park","Downtown New Westminster","New Westminster","Lower Mainland",49.20069,-122.90973,NA,"",398,0,0
+"110",110,"9/10/15 17:30","1/21/16 10:00",464,"BCIT","BCIT","Burnaby","Lower Mainland",49.252074,-123.004976,NA,"",22,0,0
+"111",111,"9/8/15 15:30","",391,"New West SkyTrain","Downtown New Westminster","New Westminster","Lower Mainland",49.200503,-122.914108,NA,"",432,0,0
+"112",112,"9/8/15 15:00","",465,"Dominion Rocket","Downtown Victoria","Victoria","Greater Victoria",48.425899,-123.36254,NA,"",504,0,0
+"113",113,"8/6/15 11:00","",415,"Lougheed SkyTrain / Manchester","Lougheed","Burnaby","Lower Mainland",49.247952,-122.897053,NA,"",216,0,0
+"114",114,"7/31/15 15:30","",454,"RedBrick Surface Lot","Edmonds","Burnaby","Lower Mainland",49.210347,-122.952778,NA,"",235,0,0
+"115",115,"7/17/15 18:00","",407,"Belmont & Seventh","Uptown","New Westminster","Lower Mainland",49.211755,-122.920665,NA,"",306,0,0
+"116",116,"7/9/15 15:00","",451,"Howard Johnson","Downtown Vancouver","Vancouver","Lower Mainland",49.277052,-123.125451,NA,"",1981,0,0
+"117",117,"6/30/15 15:00","",455,"Klahanie","Port Moody","Port Moody","Lower Mainland",49.279337,-122.833729,NA,"",155,0,0
+"118",118,"6/19/15 23:00","",452,"Kensington Plaza","Coquitlam Town Centre","Coquitlam","Lower Mainland",49.282701,-122.794562,NA,"",87,0,0
+"119",119,"6/18/15 10:30","12/2/16 17:15",453,"Coquitlam City Hall","Coquitlam Town Centre","Coquitlam","Lower Mainland",49.284829,-122.79373,NA,"",95,0,0
+"120",120,"6/11/15 16:00","",459,"Broughton Street Parkade","Downtown Victoria","Victoria","Greater Victoria",48.423094,-123.364444,NA,"",527,0,0
+"121",121,"6/3/15 13:00","",458,"Cambie & W 57th","Oakridge","Vancouver","Lower Mainland",49.219427,-123.116556,NA,"",90,0,0
+"122",122,"5/29/15 10:30","",441,"Element / Sovereign","Metrotown","Burnaby","Lower Mainland",49.230281,-123.004364,NA,"",306,0,0
+"123",123,"5/27/15 18:30","",449,"Il Mercato","Grandview-Woodland","Vancouver","Lower Mainland",49.269751,-123.070821,NA,"",1014,0,0
+"124",124,"5/22/15 18:00","11/2/15 17:00",448,"Yew & W 40th","Kerrisdale","Vancouver","Lower Mainland",49.235759,-123.158496,NA,"",132,0,0
+"125",125,"5/4/15 19:30","",410,"Grosvenor & King George","Surrey City Centre","Surrey","Lower Mainland",49.19906,-122.84551,NA,"",107,0,0
+"126",126,"5/1/15 14:30","",447,"Yu","Wesbrook Place","UBC","Lower Mainland",49.253476,-123.235577,NA,"",274,0,0
+"127",127,"4/24/15 17:30","",446,"W 19th & Manitoba","Riley Park","Vancouver","Lower Mainland",49.253812,-123.106202,NA,"",985,0,0
+"128",128,"4/14/15 10:00","",439,"River Rock - Bridgeport","Richmond","Richmond","Lower Mainland",49.195298,-123.12809,NA,"",7,0,0
+"129",129,"4/12/15 14:00","",444,"Cordovan","Downtown Eastside","Vancouver","Lower Mainland",49.282512,-123.092173,NA,"",528,0,0
+"130",130,"4/2/15 15:00","",443,"Bastion Square Parkade","Downtown Victoria","Victoria","Greater Victoria",48.426613,-123.368483,NA,"",416,0,0
+"131",131,"3/31/15 12:00","",442,"Telus Garden Office Tower","Downtown Vancouver","Vancouver","Lower Mainland",49.280982,-123.117263,NA,"",1663,0,0
+"132",132,"3/30/15 13:30","",440,"Lido","False Creek","Vancouver","Lower Mainland",49.270918,-123.101663,NA,"",951,0,0
+"133",133,"3/9/15 15:00","",383,"Vista Point","East Campus","UBC","Lower Mainland",49.262078,-123.240475,NA,"",493,0,0
+"134",134,"3/1/15 0:00","",417,"Campus Security","UVic","UVic","Greater Victoria",48.466974,-123.308654,NA,"",59,0,0
+"135",135,"3/1/15 0:00","10/19/16 15:30",418,"Oak Bay Junction","Jubilee","Victoria","Greater Victoria",48.426937,-123.334172,NA,"",237,0,0
+"136",136,"3/1/15 0:00","",419,"Centennial Square Parkade","Downtown Victoria","Victoria","Greater Victoria",48.429172,-123.365393,NA,"",391,0,0
+"137",137,"3/1/15 0:00","",420,"Dockside Green","Victoria West","Victoria","Greater Victoria",48.431108,-123.378493,NA,"",207,0,0
+"138",138,"3/1/15 0:00","",421,"Tuscany Village","Gordon Head","Saanich","Greater Victoria",48.469054,-123.331534,NA,"",62,0,0
+"139",139,"3/1/15 0:00","",422,"Cook Street Village","Fairfield","Victoria","Greater Victoria",48.412954,-123.355077,NA,"",283,0,0
+"140",140,"3/1/15 0:00","",423,"Kingston & Montreal","James Bay","Victoria","Greater Victoria",48.42175,-123.378249,NA,"",273,0,0
+"141",141,"3/1/15 0:00","",424,"North Park","North Park","Victoria","Greater Victoria",48.429635,-123.357191,NA,"",510,0,0
+"142",142,"3/1/15 0:00","",425,"Jubilee Ave","Jubilee","Victoria","Greater Victoria",48.426796,-123.331552,NA,"",201,0,0
+"143",143,"3/1/15 0:00","",426,"Oak Bay Library","Oak Bay","Oak Bay","Greater Victoria",48.425684,-123.313873,NA,"",82,0,0
+"144",144,"3/1/15 0:00","",427,"Fernwood & Johnson","Fernwood","Victoria","Greater Victoria",48.425612,-123.345577,NA,"",396,0,0
+"145",145,"3/1/15 0:00","",428,"Hillside & Cedar Hill","Oaklands","Victoria","Greater Victoria",48.440988,-123.344793,NA,"",169,0,0
+"146",146,"3/1/15 0:00","",429,"Skyline Residences","Esquimalt","Esquimalt","Greater Victoria",48.430064,-123.40282,NA,"",65,0,0
+"147",147,"3/1/15 0:00","",430,"Family Student Housing","UVic","UVic","Greater Victoria",48.467613,-123.305018,NA,"",61,0,0
+"148",148,"3/1/15 0:00","",431,"The Q: Blanshard","James Bay","Victoria","Greater Victoria",48.419388,-123.36513,NA,"",505,0,0
+"149",149,"3/1/15 0:00","",432,"The Q: Douglas","James Bay","Victoria","Greater Victoria",48.419664,-123.366154,NA,"",504,0,0
+"150",150,"3/1/15 0:00","",433,"Ormond","Fernwood","Victoria","Greater Victoria",48.423826,-123.349647,NA,"",470,0,0
+"151",151,"3/1/15 0:00","",434,"Burdett","Fairfield","Victoria","Greater Victoria",48.421505,-123.356829,NA,"",563,0,0
+"152",152,"3/1/15 0:00","",435,"Johnson Street Parkade","Downtown Victoria","Victoria","Greater Victoria",48.427029,-123.362786,NA,"",480,0,0
+"153",153,"3/1/15 0:00","",436,"Fernwood Community Centre","Fernwood","Victoria","Greater Victoria",48.430738,-123.348312,NA,"",426,0,0
+"154",154,"3/1/15 0:00","",437,"James Bay Square","James Bay","Victoria","Greater Victoria",48.415508,-123.376313,NA,"",264,0,0
+"155",155,"3/1/15 0:00","",438,"Collinson","Fairfield","Victoria","Greater Victoria",48.420033,-123.359719,NA,"",528,0,0
+"156",156,"2/4/15 9:30","",412,"Gilmore SkyTrain","Brentwood","Burnaby","Lower Mainland",49.263354,-123.012449,NA,"",134,0,0
+"157",157,"1/22/15 18:00","",414,"Cartier & W 70th","Marpole","Vancouver","Lower Mainland",49.208774,-123.137897,NA,"",175,0,0
+"158",158,"1/22/15 14:00","",411,"Centaurus Circle","Lougheed","Burnaby","Lower Mainland",49.257632,-122.908137,NA,"",113,0,0
+"159",159,"1/22/15 12:30","",413,"Clark Park","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.256554,-123.073732,NA,"",737,0,0
+"160",160,"11/29/14 0:00","",409,"CCEC Credit Union","Grandview-Woodland","Vancouver","Lower Mainland",49.264445,-123.069198,NA,"",983,0,0
+"161",161,"11/27/14 17:00","",405,"Place Vanier","Main Campus","UBC","Lower Mainland",49.264951,-123.257748,NA,"",174,0,0
+"162",162,"11/22/14 12:30","",408,"Templeton & E Hastings","Grandview-Woodland","Vancouver","Lower Mainland",49.281721,-123.059829,NA,"",695,0,0
+"163",163,"10/24/14 13:00","6/17/16 15:00",513,"Meccanica (underground)","False Creek","Vancouver","Lower Mainland",49.269779,-123.102532,NA,"",994,0,0
+"164",164,"10/16/14 15:30","",406,"Metroplace","Metrotown","Burnaby","Lower Mainland",49.225043,-123.004811,NA,"",289,0,0
+"165",165,"9/11/14 13:30","",401,"The Lauren","West End","Vancouver","Lower Mainland",49.28512,-123.134458,NA,"",2515,0,0
+"166",166,"9/10/14 20:00","",399,"Suter Brook Village","Port Moody","Port Moody","Lower Mainland",49.27875,-122.829423,NA,"",162,0,0
+"167",167,"9/4/14 12:00","",400,"Langara SkyTrain","Oakridge","Vancouver","Lower Mainland",49.227875,-123.117065,NA,"",111,0,0
+"168",168,"9/2/14 8:30","",382,"Royal Oak SkyTrain","Royal Oak","Burnaby","Lower Mainland",49.22058,-122.990041,NA,"",120,0,0
+"169",169,"8/21/14 14:30","",372,"The Flats","Strathcona","Vancouver","Lower Mainland",49.278838,-123.09891,NA,"",902,0,0
+"170",170,"8/13/14 10:30","",398,"Port Moody City Hall","Port Moody","Port Moody","Lower Mainland",49.282536,-122.828994,NA,"",165,0,0
+"171",171,"7/28/14 9:30","8/31/16 13:15",397,"Fairview Vancity","Fairview","Vancouver","Lower Mainland",49.262345,-123.116043,NA,"",1243,0,0
+"172",172,"7/13/14 10:30","",279,"New West City Hall","Uptown","New Westminster","Lower Mainland",49.205973,-122.910713,NA,"",483,0,0
+"173",173,"7/12/14 22:30","",311,"Eleventh & Auckland","Brow of the Hill","New Westminster","Lower Mainland",49.201471,-122.920545,NA,"",429,0,0
+"174",174,"7/12/14 22:30","",392,"Quayside & Laguna","Downtown New Westminster","New Westminster","Lower Mainland",49.199921,-122.92243,NA,"",353,0,0
+"175",175,"7/8/14 17:00","9/4/14 12:00",396,"Tisdall Park (temp)","Oakridge","Vancouver","Lower Mainland",49.226769,-123.118058,NA,"",101,0,0
+"176",176,"7/8/14 13:30","",395,"Georgia & Kamloops","Hastings-Sunrise","Vancouver","Lower Mainland",49.278245,-123.055155,NA,"",640,0,0
+"177",177,"7/7/14 16:30","",386,"Rhododendron Wood","Hawthorn Place","UBC","Lower Mainland",49.25707,-123.248032,NA,"",390,0,0
+"178",178,"7/3/14 12:00","",393,"Rexall Drugs","Uptown","New Westminster","Lower Mainland",49.214365,-122.922598,NA,"",219,0,0
+"179",179,"7/2/14 12:00","",394,"Halifax & Willingdon","Brentwood","Burnaby","Lower Mainland",49.268416,-123.004996,NA,"",183,0,0
+"180",180,"6/20/14 16:30","12/19/16 10:00",390,"La Casa Gelato (temp)","Strathcona","Vancouver","Lower Mainland",49.277326,-123.081317,NA,"",533,0,0
+"181",181,"6/12/14 10:00","",380,"El Dorado","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.241487,-123.058621,NA,"",239,0,0
+"182",182,"6/6/14 8:00","",381,"Granville Bridge","Yaletown","Vancouver","Lower Mainland",49.273524,-123.129859,NA,"",1497,0,0
+"183",183,"5/28/14 15:00","",373,"Arbutus & W 4th","Kitsilano","Vancouver","Lower Mainland",49.267848,-123.152567,NA,"",1107,0,0
+"184",184,"5/28/14 11:30","",389,"Joyce & Church","Renfrew-Collingwood","Vancouver","Lower Mainland",49.235171,-123.034795,NA,"",287,0,0
+"185",185,"5/22/14 11:00","",388,"City Hall Surface Lot - Disability Stall","Mount Pleasant","Vancouver","Lower Mainland",49.262588,-123.114201,NA,"",1258,0,0
+"186",186,"4/30/14 12:00","",387,"Vancouver Park Board","West End","Vancouver","Lower Mainland",49.291058,-123.144974,NA,"",1049,0,0
+"187",187,"4/10/14 11:00","",379,"Burrard Bridge","West End","Vancouver","Lower Mainland",49.276165,-123.134407,NA,"",1690,0,0
+"188",188,"3/20/14 10:30","",371,"E Hastings & Kaslo","Hastings-Sunrise","Vancouver","Lower Mainland",49.280836,-123.046921,NA,"",294,0,0
+"189",189,"3/14/14 11:30","5/2/14 13:00",366,"Surrey Eye Care Centre (temp)","Surrey City Centre","Surrey","Lower Mainland",49.191226,-122.84807,NA,"",162,0,0
+"190",190,"3/7/14 12:00","",375,"Molson's","False Creek","Vancouver","Lower Mainland",49.270828,-123.141524,NA,"",949,0,0
+"191",191,"3/6/14 14:00","",368,"Cynthia Manor","Mount Pleasant","Vancouver","Lower Mainland",49.257875,-123.09731,NA,"",1182,0,0
+"192",192,"3/6/14 13:00","",358,"Thornton","Strathcona","Vancouver","Lower Mainland",49.272098,-123.093081,NA,"",736,0,0
+"193",193,"2/28/14 14:30","",374,"Troll's","Horseshoe Bay","West Vancouver","Lower Mainland",49.374272,-123.275115,NA,"",6,0,0
+"194",194,"2/12/14 16:30","2/15/17 22:30",367,"North Surrey Recreation Centre","Surrey City Centre","Surrey","Lower Mainland",49.189826,-122.848293,NA,"",159,0,0
+"195",195,"2/3/14 14:30","",363,"Kingsway & Tyne Safeway","Killarney","Vancouver","Lower Mainland",49.231865,-123.03172,NA,"",257,0,0
+"196",196,"2/3/14 8:00","6/3/15 10:00",370,"Marine Drive SkyTrain","Marpole","Vancouver","Lower Mainland",49.210904,-123.118711,NA,"",111,0,0
+"197",197,"12/10/13 11:00","",359,"Cameron Rec Centre","Lougheed","Burnaby","Lower Mainland",49.253517,-122.900904,NA,"",209,0,0
+"198",198,"12/3/13 8:00","",362,"Gateway SkyTrain","Surrey City Centre","Surrey","Lower Mainland",49.199164,-122.848895,NA,"",112,0,0
+"199",199,"11/15/13 15:30","4/21/16 15:00",357,"UBC Aquatic Centre","Main Campus","UBC","Lower Mainland",49.266995,-123.248252,NA,"",355,0,0
+"200",200,"11/14/13 18:00","",360,"Charles Tupper Field","Riley Park","Vancouver","Lower Mainland",49.249992,-123.092144,NA,"",601,0,0
+"201",201,"11/12/13 21:30","",354,"Eburne Park","Marpole","Vancouver","Lower Mainland",49.206841,-123.128437,NA,"",181,0,0
+"202",202,"11/6/13 16:00","",355,"Albert & Esmond","Burnaby Heights","Burnaby","Lower Mainland",49.281978,-123.020687,NA,"",166,0,0
+"203",203,"11/5/13 10:30","",352,"Rochester","Cariboo-Burquitlam","Coquitlam","Lower Mainland",49.245506,-122.890241,NA,"",154,0,0
+"204",204,"11/2/13 0:30","",353,"Grays Park","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.240617,-123.08415,NA,"",260,0,0
+"205",205,"11/1/13 21:00","",339,"Stanley Park Tennis Courts","West End","Vancouver","Lower Mainland",49.292274,-123.143627,NA,"",1016,0,0
+"206",206,"10/24/13 13:30","",350,"District Main","Riley Park","Vancouver","Lower Mainland",49.245105,-123.101794,NA,"",428,0,0
+"207",207,"10/22/13 9:00","",351,"Salisbury & Edmonds","Edmonds","Burnaby","Lower Mainland",49.215532,-122.957187,NA,"",260,0,0
+"208",208,"10/8/13 15:30","",349,"Melville","Coal Harbour","Vancouver","Lower Mainland",49.288455,-123.125176,NA,"",1711,0,0
+"209",209,"10/2/13 14:30","",340,"E 11th & Watson","Mount Pleasant","Vancouver","Lower Mainland",49.261121,-123.099709,NA,"",1305,0,0
+"210",210,"9/30/13 14:00","",346,"Lakewood & E 2nd","Grandview-Woodland","Vancouver","Lower Mainland",49.268808,-123.06195,NA,"",931,0,0
+"211",211,"9/30/13 14:00","",347,"Lord Nelson School","Grandview-Woodland","Vancouver","Lower Mainland",49.272096,-123.060502,NA,"",898,0,0
+"212",212,"8/27/13 11:00","",342,"Lansdowne SkyTrain","Richmond","Richmond","Lower Mainland",49.173744,-123.134656,NA,"",88,0,0
+"213",213,"8/23/13 10:30","3/7/14 12:00",345,"W 1st & Pennyfarthing","False Creek","Vancouver","Lower Mainland",49.270987,-123.141088,NA,"",943,0,0
+"214",214,"8/2/13 10:00","",343,"Wall Centre False Creek","False Creek","Vancouver","Lower Mainland",49.269758,-123.107077,NA,"",1118,0,0
+"215",215,"7/16/13 13:30","",344,"Dunbar Community Centre","Dunbar-Southlands","Vancouver","Lower Mainland",49.2437,-123.185389,NA,"",103,0,0
+"216",216,"6/13/13 10:00","",341,"Holdom SkyTrain","Brentwood","Burnaby","Lower Mainland",49.264628,-122.98345,NA,"",98,0,0
+"217",217,"6/13/13 8:30","",337,"Fire Hall 9","Grandview-Woodland","Vancouver","Lower Mainland",49.268619,-123.066021,NA,"",1026,0,0
+"218",218,"6/5/13 16:30","",338,"Olympic Village SkyTrain","False Creek","Vancouver","Lower Mainland",49.266255,-123.116102,NA,"",1163,0,0
+"219",219,"6/4/13 14:30","",336,"Robson Park","Mount Pleasant","Vancouver","Lower Mainland",49.258782,-123.091483,NA,"",1082,0,0
+"220",220,"6/4/13 10:00","",335,"Maywood & Willingdon","Metrotown","Burnaby","Lower Mainland",49.224378,-123.010548,NA,"",247,0,0
+"221",221,"5/17/13 12:30","",334,"Nanaimo & Copley","Renfrew-Collingwood","Vancouver","Lower Mainland",49.253054,-123.056523,NA,"",356,0,0
+"222",222,"5/14/13 16:30","",333,"Lonsdale & 4th","Lower Lonsdale","North Vancouver","Lower Mainland",49.313934,-123.076401,NA,"",237,0,0
+"223",223,"4/30/13 16:30","",332,"Lakewood & E 8th","Grandview-Woodland","Vancouver","Lower Mainland",49.263555,-123.062047,NA,"",782,0,0
+"224",224,"4/29/13 9:00","",326,"Mergatroid Building","Strathcona","Vancouver","Lower Mainland",49.275932,-123.079419,NA,"",649,0,0
+"225",225,"4/26/13 0:30","",331,"1176 Burnaby","West End","Vancouver","Lower Mainland",49.280549,-123.13457,NA,"",2303,0,0
+"226",226,"4/25/13 15:30","",327,"Burrard View Park","Hastings-Sunrise","Vancouver","Lower Mainland",49.290405,-123.049266,NA,"",211,0,0
+"227",227,"4/19/13 13:00","",330,"Kingsgate Mall","Mount Pleasant","Vancouver","Lower Mainland",49.262097,-123.09841,NA,"",1279,0,0
+"228",228,"4/19/13 10:00","",328,"Fire Hall 1","Strathcona","Vancouver","Lower Mainland",49.275785,-123.090044,NA,"",514,0,0
+"229",229,"4/3/13 18:00","",323,"Commercial-Broadway SkyTrain","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.261276,-123.069255,NA,"",891,0,0
+"230",230,"3/28/13 10:30","4/10/17 17:00",325,"All India","Sunset","Vancouver","Lower Mainland",49.225513,-123.102548,NA,"",142,0,0
+"231",231,"3/18/13 15:30","",321,"Almond Park","Kitsilano","Vancouver","Lower Mainland",49.261486,-123.184115,NA,"",398,0,0
+"232",232,"3/13/13 18:30","",324,"Walter Hardwick - Urban Fare","False Creek","Vancouver","Lower Mainland",49.270799,-123.105091,NA,"",1044,0,0
+"233",233,"2/26/13 10:00","",296,"North Van School Board","Central Lonsdale","North Vancouver","Lower Mainland",49.329263,-123.072298,NA,"",128,0,0
+"234",234,"2/20/13 16:30","",322,"Cranberry Commons","Burnaby Heights","Burnaby","Lower Mainland",49.281866,-123.009514,NA,"",162,0,0
+"235",235,"2/14/13 11:30","",319,"Elizabeth Fry Society","Sapperton","New Westminster","Lower Mainland",49.22786,-122.892436,NA,"",123,0,0
+"236",236,"2/12/13 20:30","",284,"Brighouse SkyTrain","Richmond","Richmond","Lower Mainland",49.166152,-123.133618,NA,"",111,0,0
+"237",237,"2/12/13 14:00","",313,"Milross","False Creek","Vancouver","Lower Mainland",49.276024,-123.101779,NA,"",1017,0,0
+"238",238,"1/30/13 17:00","",318,"Villa Cardello","West End","Vancouver","Lower Mainland",49.288336,-123.13365,NA,"",2281,0,0
+"239",239,"1/29/13 13:00","11/14/13 18:00",317,"Now on Fraser","Riley Park","Vancouver","Lower Mainland",49.246721,-123.090721,NA,"",452,0,0
+"240",240,"12/17/12 17:30","",316,"Sitka Co-op","Grandview-Woodland","Vancouver","Lower Mainland",49.270798,-123.073525,NA,"",951,0,0
+"241",241,"12/17/12 12:00","",315,"Wallace & W 18th","Dunbar-Southlands","Vancouver","Lower Mainland",49.256753,-123.190829,NA,"",204,0,0
+"242",242,"11/16/12 13:00","9/2/16 11:15",314,"The Rise","Mount Pleasant","Vancouver","Lower Mainland",49.264693,-123.113369,NA,"",1245,0,0
+"243",243,"11/16/12 10:00","",309,"Columbia SkyTrain","Downtown New Westminster","New Westminster","Lower Mainland",49.205139,-122.90606,NA,"",376,0,0
+"244",244,"11/15/12 15:00","",312,"Hillcrest Pool","Riley Park","Vancouver","Lower Mainland",49.243644,-123.106518,NA,"",367,0,0
+"245",245,"11/13/12 15:30","",310,"Vanness & Ormidale","Renfrew-Collingwood","Vancouver","Lower Mainland",49.235276,-123.025565,NA,"",265,0,0
+"246",246,"9/14/12 18:30","4/29/13 9:00",307,"Watershed Co-op","Grandview-Woodland","Vancouver","Lower Mainland",49.274474,-123.074402,NA,"",899,0,0
+"247",247,"9/11/12 12:30","",174,"Kootenay Loop","Hastings-Sunrise","Vancouver","Lower Mainland",49.280921,-123.025785,NA,"",147,0,0
+"248",248,"9/5/12 9:00","11/3/15 12:30",278,"Walter Gage Road (old)","Main Campus","UBC","Lower Mainland",49.270228,-123.249844,NA,"",173,0,0
+"249",249,"9/4/12 8:00","",305,"Great Northern Way","Mount Pleasant","Vancouver","Lower Mainland",49.267317,-123.089267,NA,"",780,0,0
+"250",250,"8/24/12 6:00","",306,"Quattro","Surrey City Centre","Surrey","Lower Mainland",49.198241,-122.842101,NA,"",98,0,0
+"251",251,"6/21/12 21:00","",304,"Sophia & E 45th","Sunset","Vancouver","Lower Mainland",49.229457,-123.09941,NA,"",176,0,0
+"252",252,"6/1/12 16:00","",285,"W 20th & Oak","South Cambie","Vancouver","Lower Mainland",49.253492,-123.12705,NA,"",655,0,0
+"253",253,"6/1/12 11:30","",297,"Cooper's Park","Yaletown","Vancouver","Lower Mainland",49.273276,-123.116662,NA,"",1474,0,0
+"254",254,"6/1/12 9:00","",301,"MacPherson Walk","Royal Oak","Burnaby","Lower Mainland",49.217078,-122.979508,NA,"",79,0,0
+"255",255,"5/31/12 17:00","",303,"Marpole Park","Marpole","Vancouver","Lower Mainland",49.205723,-123.138111,NA,"",162,0,0
+"256",256,"5/24/12 17:00","",283,"Keswick Park","Lougheed","Burnaby","Lower Mainland",49.248119,-122.89996,NA,"",204,0,0
+"257",257,"5/24/12 9:30","",302,"Vancouver School Board","Fairview","Vancouver","Lower Mainland",49.263215,-123.140773,NA,"",1086,0,0
+"258",258,"5/10/12 6:00","",299,"Pacific Centre","Downtown Vancouver","Vancouver","Lower Mainland",49.283853,-123.117232,NA,"",1528,0,0
+"259",259,"5/4/12 15:30","5/20/15 10:00",280,"Granville Mews","Oakridge","Vancouver","Lower Mainland",49.224731,-123.138792,NA,"",33,0,0
+"260",260,"4/26/12 16:00","",290,"Cedar Cottage Park","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.260556,-123.077179,NA,"",937,0,0
+"261",261,"4/19/12 14:30","",300,"Gore & Railway","Downtown Eastside","Vancouver","Lower Mainland",49.284446,-123.097995,NA,"",646,0,0
+"262",262,"4/17/12 16:00","",286,"Admiral Seymour","Strathcona","Vancouver","Lower Mainland",49.279427,-123.081252,NA,"",476,0,0
+"263",263,"4/16/12 12:00","9/11/15 9:30",282,"River Market","Downtown New Westminster","New Westminster","Lower Mainland",49.200124,-122.912622,NA,"",403,0,0
+"264",264,"4/12/12 16:00","1/28/14 16:00",294,"Lonsdale Safeway","Central Lonsdale","North Vancouver","Lower Mainland",49.32021,-123.072112,NA,"",237,0,0
+"265",265,"4/5/12 9:30","",287,"Napier","Grandview-Woodland","Vancouver","Lower Mainland",49.274815,-123.061162,NA,"",922,0,0
+"266",266,"4/5/12 9:30","",288,"29th Avenue SkyTrain","Renfrew-Collingwood","Vancouver","Lower Mainland",49.244563,-123.04736,NA,"",226,0,0
+"267",267,"4/4/12 11:00","",295,"Surrey Central SkyTrain","Surrey City Centre","Surrey","Lower Mainland",49.188634,-122.848186,NA,"",153,0,0
+"268",268,"3/26/12 9:00","",293,"Maple & W 13th","Kitsilano","Vancouver","Lower Mainland",49.259909,-123.150623,NA,"",776,0,0
+"269",269,"3/22/12 8:00","",289,"66 W Cordova","Downtown Vancouver","Vancouver","Lower Mainland",49.282416,-123.10634,NA,"",918,0,0
+"270",270,"3/21/12 8:00","",291,"McSpadden Park","Grandview-Woodland","Vancouver","Lower Mainland",49.266031,-123.065903,NA,"",993,0,0
+"271",271,"1/27/12 18:00","",277,"Alma Blackwell's","Grandview-Woodland","Vancouver","Lower Mainland",49.277545,-123.071538,NA,"",843,0,0
+"272",272,"1/17/12 10:00","",276,"Thunderbird Residence","Hawthorn Place","UBC","Lower Mainland",49.258794,-123.249652,NA,"",379,0,0
+"273",273,"12/17/11 10:30","",275,"St. Catherines & E 29th","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.244041,-123.085888,NA,"",332,0,0
+"274",274,"11/9/11 0:00","",238,"1 Kingsway","Mount Pleasant","Vancouver","Lower Mainland",49.264582,-123.100116,NA,"",1292,0,0
+"275",275,"10/30/11 0:30","",269,"City Hall Surface Lot - Electric Charging Station","Mount Pleasant","Vancouver","Lower Mainland",49.262465,-123.113739,NA,"",1262,0,0
+"276",276,"10/27/11 11:00","",274,"SFU Residence Parking","SFU","Burnaby","Lower Mainland",49.280228,-122.925839,NA,"",24,0,0
+"277",277,"9/8/11 2:00","",272,"China Creek Co-op","Mount Pleasant","Vancouver","Lower Mainland",49.263349,-123.079061,NA,"",970,0,0
+"278",278,"8/12/11 16:00","",271,"Brentwood SkyTrain","Brentwood","Burnaby","Lower Mainland",49.265893,-123.000466,NA,"",179,0,0
+"279",279,"8/5/11 12:00","",270,"Athletes' Village","False Creek","Vancouver","Lower Mainland",49.270951,-123.108685,NA,"",1164,0,0
+"280",280,"6/28/11 3:00","",268,"Waterloo Vancity","Kitsilano","Vancouver","Lower Mainland",49.264631,-123.17934,NA,"",512,0,0
+"281",281,"5/26/11 12:30","",267,"The Hollies","Kerrisdale","Vancouver","Lower Mainland",49.227488,-123.154605,NA,"",97,0,0
+"282",282,"5/24/11 18:00","",266,"Trutch & W 12th","Kitsilano","Vancouver","Lower Mainland",49.261861,-123.175964,NA,"",501,0,0
+"283",283,"3/4/11 8:00","",265,"Richards & Drake","Downtown Vancouver","Vancouver","Lower Mainland",49.274912,-123.125601,NA,"",1711,0,0
+"284",284,"2/26/11 6:00","",264,"Mole Hill","West End","Vancouver","Lower Mainland",49.282352,-123.131017,NA,"",2620,0,0
+"285",285,"2/1/11 0:00","",263,"Capitol Residences","Downtown Vancouver","Vancouver","Lower Mainland",49.280289,-123.119498,NA,"",1872,0,0
+"286",286,"1/21/11 15:00","",259,"Marinaside","Yaletown","Vancouver","Lower Mainland",49.272761,-123.120217,NA,"",1484,0,0
+"287",287,"1/2/11 8:00","",262,"City Square","Fairview","Vancouver","Lower Mainland",49.261293,-123.117416,NA,"",1241,0,0
+"288",288,"11/24/10 4:30","",261,"Walter Hardwick - London Drugs","False Creek","Vancouver","Lower Mainland",49.271023,-123.105122,NA,"",1035,0,0
+"289",289,"10/16/10 11:00","",260,"Paloma","Grandview-Woodland","Vancouver","Lower Mainland",49.267822,-123.07133,NA,"",981,0,0
+"290",290,"7/7/10 0:30","",257,"The Dogwood","West End","Vancouver","Lower Mainland",49.291363,-123.142602,NA,"",1237,0,0
+"291",291,"6/30/10 16:00","",256,"Alderwood","Mount Pleasant","Vancouver","Lower Mainland",49.25758,-123.104123,NA,"",1206,0,0
+"292",292,"6/30/10 14:00","",255,"MacLean Park","Strathcona","Vancouver","Lower Mainland",49.278382,-123.088675,NA,"",458,0,0
+"293",293,"6/17/10 0:30","",254,"Trout Lake","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.256819,-123.065703,NA,"",655,0,0
+"294",294,"6/15/10 11:30","6/30/10 23:00",245,"Citadel Parade","Downtown Vancouver","Vancouver","Lower Mainland",49.279067,-123.110609,NA,"",1347,0,0
+"295",295,"6/11/10 15:30","",253,"W 10th & Hemlock","Fairview","Vancouver","Lower Mainland",49.262586,-123.135329,NA,"",1053,0,0
+"296",296,"6/4/10 6:30","",252,"Eight Oaks","South Cambie","Vancouver","Lower Mainland",49.252764,-123.115304,NA,"",801,0,0
+"297",297,"5/18/10 13:30","",251,"David Lam Park","Yaletown","Vancouver","Lower Mainland",49.273278,-123.124471,NA,"",1546,0,0
+"298",298,"5/12/10 15:00","",249,"The Windsor","West End","Vancouver","Lower Mainland",49.291068,-123.140033,NA,"",1497,0,0
+"299",299,"5/12/10 15:00","",250,"Albatross","Kitsilano","Vancouver","Lower Mainland",49.269066,-123.155781,NA,"",1057,0,0
+"300",300,"5/12/10 14:00","",248,"Harbourview","West End","Vancouver","Lower Mainland",49.293004,-123.136591,NA,"",1375,0,0
+"301",301,"5/12/10 2:00","",247,"Grant & Commercial","Grandview-Woodland","Vancouver","Lower Mainland",49.271387,-123.070239,NA,"",1041,0,0
+"302",302,"5/6/10 4:30","12/3/13 8:00",246,"Gateway SkyTrain (parkade)","Surrey City Centre","Surrey","Lower Mainland",49.198377,-122.851091,NA,"",121,0,0
+"303",303,"4/30/10 8:30","2/1/16 13:00",244,"The Cultch","Grandview-Woodland","Vancouver","Lower Mainland",49.277002,-123.065892,NA,"",946,0,0
+"304",304,"4/8/10 4:00","8/13/10 10:30",243,"Premier & Old Lillooet","Lynn Creek","North Vancouver","Lower Mainland",49.313337,-123.027818,NA,"",30,0,0
+"305",305,"3/18/10 11:30","5/26/11 12:30",242,"W 15th & Maple","Kitsilano","Vancouver","Lower Mainland",49.2582,-123.150045,NA,"",661,0,0
+"306",306,"3/17/10 15:00","",241,"King Edward SkyTrain","South Cambie","Vancouver","Lower Mainland",49.250105,-123.115583,NA,"",548,0,0
+"307",307,"1/7/10 23:00","8/12/14 16:30",240,"1529 Comox @ Nicola","West End","Vancouver","Lower Mainland",49.286607,-123.135562,NA,"",2403,0,0
+"308",308,"12/17/09 2:30","5/4/10 23:00",239,"Sandlewood","Tsawwassen","Tsawwassen","Lower Mainland",49.032885,-123.06655,NA,"",9,0,0
+"309",309,"12/2/09 15:00","2/11/11 16:00",236,"Metropolitan Towers","Downtown Vancouver","Vancouver","Lower Mainland",49.278908,-123.12081,NA,"",1922,0,0
+"310",310,"11/23/09 15:00","",237,"E 11th & Fraser","Mount Pleasant","Vancouver","Lower Mainland",49.260604,-123.090148,NA,"",1064,0,0
+"311",311,"11/4/09 14:00","",235,"Sasamat & W 14th","West Point Grey","Vancouver","Lower Mainland",49.260053,-123.20928,NA,"",163,0,0
+"312",312,"10/14/09 2:30","1/31/12 17:30",234,"Georgia & Richards","Downtown Vancouver","Vancouver","Lower Mainland",49.281045,-123.116701,NA,"",1604,0,0
+"313",313,"10/12/09 5:30","12/3/10 13:00",232,"Old Nanaimo City Hall","Nanaimo City Centre","Nanaimo","Nanaimo",49.1635,-123.937874,NA,"",26,0,0
+"314",314,"9/15/09 13:00","",231,"Commercial Street Cafe","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.252537,-123.068397,NA,"",510,0,0
+"315",315,"8/31/09 7:00","",229,"Emerald Terrace","West End","Vancouver","Lower Mainland",49.291703,-123.141599,NA,"",1279,0,0
+"316",316,"8/12/09 0:30","2/3/14 8:00",228,"Marine Drive Station","Marpole","Vancouver","Lower Mainland",49.209554,-123.117246,NA,"",100,0,0
+"317",317,"8/11/09 16:00","4/18/13 13:00",225,"Alder & W 10th","Fairview","Vancouver","Lower Mainland",49.262125,-123.131005,NA,"",1109,0,0
+"318",318,"8/11/09 5:00","7/7/10 0:30",226,"Flamingo","West End","Vancouver","Lower Mainland",49.290523,-123.144983,NA,"",1111,0,0
+"319",319,"8/10/09 8:30","",227,"McGill Park","Grandview-Woodland","Vancouver","Lower Mainland",49.288448,-123.057048,NA,"",337,0,0
+"320",320,"7/1/09 20:00","",224,"Wesbrook Discovery Centre","Wesbrook Place","UBC","Lower Mainland",49.252971,-123.233662,NA,"",232,0,0
+"321",321,"5/1/09 5:00","7/13/10 17:00",223,"Brockton House","West End","Vancouver","Lower Mainland",49.290307,-123.132363,NA,"",1997,0,0
+"322",322,"4/8/09 16:30","",220,"Marlborough Tower","Central Lonsdale","North Vancouver","Lower Mainland",49.321451,-123.074376,NA,"",230,0,0
+"323",323,"2/24/09 10:00","11/10/10 4:00",219,"Alexander & Columbia","Downtown Vancouver","Vancouver","Lower Mainland",49.283781,-123.101863,NA,"",737,0,0
+"324",324,"1/12/09 13:00","",218,"Oxford & Templeton","Grandview-Woodland","Vancouver","Lower Mainland",49.285678,-123.058656,NA,"",493,0,0
+"325",325,"1/6/09 10:30","1/15/16 15:00",217,"E 33rd & Main","Riley Park","Vancouver","Lower Mainland",49.240606,-123.100949,NA,"",315,0,0
+"326",326,"12/2/08 15:00","",216,"English Bay","West End","Vancouver","Lower Mainland",49.286636,-123.14144,NA,"",1861,0,0
+"327",327,"10/25/08 22:30","10/9/09 5:30",215,"Islands - Comox","Comox","Comox","Comox Valley",49.672936,-124.927436,NA,"",0,0,0
+"328",328,"9/24/08 14:00","3/4/11 8:00",212,"SFU Madge Hogarth","SFU","Burnaby","Lower Mainland",49.280515,-122.922903,NA,"",31,0,0
+"329",329,"9/15/08 18:00","1/29/09 11:30",214,"Hollyburn Plaza","Ambleside","West Vancouver","Lower Mainland",49.328474,-123.162105,NA,"",13,0,0
+"330",330,"9/11/08 23:30","",213,"Skyline","Fairview","Vancouver","Lower Mainland",49.260775,-123.134551,NA,"",1017,0,0
+"331",331,"8/15/08 8:00","",222,"City Hall - Yukon & 12th Ave","Mount Pleasant","Vancouver","Lower Mainland",49.26065,-123.11333,NA,"",1277,0,0
+"332",332,"6/1/08 12:00","4/30/10 11:00",205,"Bay Street","Horseshoe Bay","West Vancouver","Lower Mainland",49.375088,-123.27561,NA,"",5,0,0
+"333",333,"5/30/08 16:00","",211,"Grandview Elementary","Grandview-Woodland","Vancouver","Lower Mainland",49.265949,-123.073536,NA,"",978,0,0
+"334",334,"5/16/08 14:30","",208,"Modo Office Parkade","Downtown Vancouver","Vancouver","Lower Mainland",49.284142,-123.113716,NA,"",1161,0,0
+"335",335,"5/15/08 15:30","",210,"Heather & W 12th","Fairview","Vancouver","Lower Mainland",49.260077,-123.119742,NA,"",1253,0,0
+"336",336,"5/13/08 12:00","",209,"Keenleyside/Pathways","Wesbrook Place","UBC","Lower Mainland",49.25441,-123.232642,NA,"",261,0,0
+"337",337,"5/2/08 17:00","",207,"Gaston @ Crowley","Renfrew-Collingwood","Vancouver","Lower Mainland",49.236766,-123.030427,NA,"",279,0,0
+"338",338,"4/22/08 15:00","",206,"Templeton Park","Grandview-Woodland","Vancouver","Lower Mainland",49.277705,-123.063679,NA,"",900,0,0
+"339",339,"4/11/08 12:30","12/2/08 4:00",204,"Hood Point","Horseshoe Bay","West Vancouver","Lower Mainland",49.374381,-123.275541,NA,"",6,0,0
+"340",340,"3/25/08 13:00","",201,"HighGate Village","Edmonds","Burnaby","Lower Mainland",49.219364,-122.956383,NA,"",213,0,0
+"341",341,"3/17/08 0:00","11/16/12 10:00",200,"Quantum (Columbia SkyTrain)","Downtown New Westminster","New Westminster","Lower Mainland",49.204186,-122.908087,NA,"",410,0,0
+"342",342,"3/4/08 0:30","6/30/10 14:00",203,"Ontario & 18th","Riley Park","Vancouver","Lower Mainland",49.254967,-123.105106,NA,"",1057,0,0
+"343",343,"2/29/08 6:00","",202,"VCC Downtown","Downtown Vancouver","Vancouver","Lower Mainland",49.281224,-123.109744,NA,"",1150,0,0
+"344",344,"2/27/08 9:00","",182,"W 3rd & Burrard","Kitsilano","Vancouver","Lower Mainland",49.268945,-123.147029,NA,"",1037,0,0
+"345",345,"2/22/08 11:30","",199,"Ace of Suedes","Grandview-Woodland","Vancouver","Lower Mainland",49.277132,-123.069894,NA,"",914,0,0
+"346",346,"2/15/08 17:30","6/28/11 13:30",197,"Waterloo & W 6th","Kitsilano","Vancouver","Lower Mainland",49.266945,-123.179787,NA,"",487,0,0
+"347",347,"2/15/08 17:30","",198,"Talishan Woods","Grandview-Woodland","Vancouver","Lower Mainland",49.268734,-123.072576,NA,"",967,0,0
+"348",348,"2/13/08 9:30","4/30/13 16:30",196,"Lakewood & E 7th","Grandview-Woodland","Vancouver","Lower Mainland",49.264215,-123.061953,NA,"",791,0,0
+"349",349,"2/1/08 19:30","",195,"Mathew Court","West End","Vancouver","Lower Mainland",49.285109,-123.13258,NA,"",2558,0,0
+"350",350,"1/17/08 3:30","",194,"W 18th & Yukon","Riley Park","Vancouver","Lower Mainland",49.254386,-123.112669,NA,"",1005,0,0
+"351",351,"12/20/07 14:30","",193,"Lonsdale Quay","Lower Lonsdale","North Vancouver","Lower Mainland",49.310949,-123.080664,NA,"",174,0,0
+"352",352,"12/13/07 21:00","",191,"Haro Villa","West End","Vancouver","Lower Mainland",49.285064,-123.126821,NA,"",2391,0,0
+"353",353,"12/8/07 3:30","5/12/10 15:00",186,"Hollybush","Kitsilano","Vancouver","Lower Mainland",49.266433,-123.154497,NA,"",1144,0,0
+"354",354,"12/6/07 14:00","",192,"Willingdon Safeway","Burnaby Heights","Burnaby","Lower Mainland",49.280795,-123.005444,NA,"",147,0,0
+"355",355,"12/1/07 12:30","",190,"Walnut","Kitsilano","Vancouver","Lower Mainland",49.274237,-123.148871,NA,"",695,0,0
+"356",356,"12/1/07 3:00","4/1/10 4:00",181,"Sundowner","West End","Vancouver","Lower Mainland",49.287852,-123.139741,NA,"",1965,0,0
+"357",357,"11/30/07 16:00","",183,"Ecole Bilingue","Fairview","Vancouver","Lower Mainland",49.257779,-123.129889,NA,"",981,0,0
+"358",358,"11/13/07 13:30","11/16/09 12:00",187,"Edgemont Village","Upper Capilano","North Vancouver","Lower Mainland",49.337277,-123.103084,NA,"",27,0,0
+"359",359,"11/12/07 14:30","9/11/12 12:00",189,"W 10th & Larch","Kitsilano","Vancouver","Lower Mainland",49.263031,-123.162204,NA,"",844,0,0
+"360",360,"11/8/07 5:00","5/31/12 17:00",185,"Granville & W 70th","Marpole","Vancouver","Lower Mainland",49.209023,-123.140934,NA,"",160,0,0
+"361",361,"11/1/07 11:30","4/17/12 9:00",188,"North Van District Hall","Delbrook / Upper Lonsdale","North Vancouver","Lower Mainland",49.336285,-123.077396,NA,"",60,0,0
+"362",362,"11/1/07 0:30","",145,"Atira","Downtown Vancouver","Vancouver","Lower Mainland",49.282479,-123.101963,NA,"",795,0,0
+"363",363,"10/24/07 9:30","",176,"Seaside Plaza","Kitsilano","Vancouver","Lower Mainland",49.270763,-123.158029,NA,"",941,0,0
+"364",364,"10/19/07 13:00","4/7/11 23:30",184,"China Creek North Park","Mount Pleasant","Vancouver","Lower Mainland",49.264477,-123.085214,NA,"",884,0,0
+"365",365,"10/18/07 13:00","",179,"Frog Hollow","Hastings-Sunrise","Vancouver","Lower Mainland",49.265472,-123.04443,NA,"",181,0,0
+"366",366,"10/18/07 13:00","2/3/15 6:30",180,"Still Creek","Brentwood","Burnaby","Lower Mainland",49.258509,-123.011032,NA,"",95,0,0
+"367",367,"10/12/07 5:30","",221,"Burnaby Green","Edmonds","Burnaby","Lower Mainland",49.207802,-122.963426,NA,"",175,0,0
+"368",368,"9/21/07 14:00","",177,"Hamilton Square","Yaletown","Vancouver","Lower Mainland",49.277562,-123.118511,NA,"",1680,0,0
+"369",369,"9/18/07 0:30","8/10/09 8:30",178,"Cambridge & Penticton","Hastings-Sunrise","Vancouver","Lower Mainland",49.28676,-123.052771,NA,"",350,0,0
+"370",370,"9/10/07 18:30","",175,"Barclay Place","West End","Vancouver","Lower Mainland",49.291753,-123.139242,NA,"",1459,0,0
+"371",371,"7/27/07 15:30","6/4/10 6:30",173,"Ash & W 21st","South Cambie","Vancouver","Lower Mainland",49.252256,-123.118364,NA,"",663,0,0
+"372",372,"7/8/07 19:30","",172,"Kitchener","Grandview-Woodland","Vancouver","Lower Mainland",49.272091,-123.072182,NA,"",995,0,0
+"373",373,"6/17/07 8:00","1/2/09 14:30",171,"Chancellor Hall","Main Campus","UBC","Lower Mainland",49.27165,-123.250098,NA,"",102,0,0
+"374",374,"6/1/07 18:30","",170,"Casa Bella","West End","Vancouver","Lower Mainland",49.287376,-123.130363,NA,"",2368,0,0
+"375",375,"6/1/07 17:00","",169,"1869 Parker @ Victoria","Grandview-Woodland","Vancouver","Lower Mainland",49.275764,-123.066248,NA,"",990,0,0
+"376",376,"5/16/07 17:30","",168,"SFU Verdant","SFU","Burnaby","Lower Mainland",49.279412,-122.906113,NA,"",108,0,0
+"377",377,"5/3/07 13:30","",166,"W 8th & Stephens","Kitsilano","Vancouver","Lower Mainland",49.26492,-123.166123,NA,"",790,0,0
+"378",378,"5/3/07 13:00","2/24/09 10:00",160,"Martinique - 1100 Harwood","West End","Vancouver","Lower Mainland",49.278884,-123.134001,NA,"",2137,0,0
+"379",379,"5/3/07 5:00","",167,"El Presidente","West End","Vancouver","Lower Mainland",49.284292,-123.138464,NA,"",2240,0,0
+"380",380,"5/1/07 14:00","",165,"W 11th & Columbia","Mount Pleasant","Vancouver","Lower Mainland",49.261184,-123.109829,NA,"",1351,0,0
+"381",381,"4/27/07 18:00","",163,"1400 Richards @ Pacific","Yaletown","Vancouver","Lower Mainland",49.273311,-123.128266,NA,"",1524,0,0
+"382",382,"4/27/07 17:00","",161,"Pine & W 12th","Fairview","Vancouver","Lower Mainland",49.260593,-123.143489,NA,"",935,0,0
+"383",383,"4/19/07 5:00","",159,"Electric Avenue/Scotia Theatre","Downtown Vancouver","Vancouver","Lower Mainland",49.281669,-123.124406,NA,"",2416,0,0
+"384",384,"4/17/07 19:30","",162,"Civic Plaza","Downtown Vancouver","Vancouver","Lower Mainland",49.287148,-123.1151,NA,"",891,0,0
+"385",385,"4/16/07 17:00","12/17/09 2:30",164,"Oliva","Tsawwassen","Tsawwassen","Lower Mainland",49.025027,-123.07291,NA,"",15,0,0
+"386",386,"3/26/07 11:00","4/9/13 11:00",158,"510 Nicola @ Cardero's","Coal Harbour","Vancouver","Lower Mainland",49.290744,-123.127476,NA,"",1591,0,0
+"387",387,"3/16/07 16:30","",157,"Bayswater & W 5th","Kitsilano","Vancouver","Lower Mainland",49.267017,-123.170793,NA,"",661,0,0
+"388",388,"3/13/07 12:00","1/11/16 15:00",156,"1339 Barclay @ Jervis","West End","Vancouver","Lower Mainland",49.286311,-123.131016,NA,"",2503,0,0
+"389",389,"3/13/07 11:00","",155,"Ash & Fourth Avenue","Uptown","New Westminster","Lower Mainland",49.208684,-122.919482,NA,"",454,0,0
+"390",390,"3/9/07 16:30","",154,"Denman Place Mall","West End","Vancouver","Lower Mainland",49.288607,-123.139036,NA,"",1951,0,0
+"391",391,"2/20/07 5:30","",153,"Hendry House","West End","Vancouver","Lower Mainland",49.28186,-123.134841,NA,"",2389,0,0
+"392",392,"2/14/07 5:00","",152,"Ontario & 12th","Mount Pleasant","Vancouver","Lower Mainland",49.260026,-123.104736,NA,"",1318,0,0
+"393",393,"1/24/07 11:30","",151,"St. Andrews & E 3rd","Lower Lonsdale","North Vancouver","Lower Mainland",49.310684,-123.071173,NA,"",179,0,0
+"394",394,"1/8/07 14:00","3/5/10 9:30",150,"W 9th & Discovery","West Point Grey","Vancouver","Lower Mainland",49.264599,-123.203361,NA,"",181,0,0
+"395",395,"1/1/07 0:00","",292,"Dude Chilling Park","Mount Pleasant","Vancouver","Lower Mainland",49.264498,-123.096262,NA,"",1155,0,0
+"396",396,"12/20/06 12:30","",141,"Willow & W 7th","Fairview","Vancouver","Lower Mainland",49.26491,-123.121845,NA,"",1215,0,0
+"397",397,"11/29/06 2:00","",149,"Carolina","Mount Pleasant","Vancouver","Lower Mainland",49.263205,-123.091099,NA,"",1020,0,0
+"398",398,"11/9/06 5:30","7/28/14 13:00",148,"Big Billboard","Downtown Vancouver","Vancouver","Lower Mainland",49.277129,-123.129053,NA,"",2069,0,0
+"399",399,"11/3/06 10:30","6/21/12 21:00",147,"E 46th & Sophia","Sunset","Vancouver","Lower Mainland",49.22835,-123.100085,NA,"",170,0,0
+"400",400,"10/30/06 14:00","",146,"Lakeview Place","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.26038,-123.06432,NA,"",756,0,0
+"401",401,"10/27/06 18:00","1/21/11 15:00",144,"1090 Pacific Boulevard","Downtown Vancouver","Vancouver","Lower Mainland",49.274339,-123.118211,NA,"",1526,0,0
+"402",402,"9/6/06 9:00","",143,"Tea Swamp Park","Mount Pleasant","Vancouver","Lower Mainland",49.256823,-123.098524,NA,"",1140,0,0
+"403",403,"9/5/06 11:30","",142,"W 1st & Yew","Kitsilano","Vancouver","Lower Mainland",49.270776,-123.154112,NA,"",972,0,0
+"404",404,"8/1/06 9:00","",140,"Granville Island","False Creek","Vancouver","Lower Mainland",49.268438,-123.136953,NA,"",1047,0,0
+"405",405,"6/29/06 15:30","",139,"Alberni Market","West End","Vancouver","Lower Mainland",49.28516,-123.124561,NA,"",2149,0,0
+"406",406,"6/27/06 11:30","",138,"Camelot","West End","Vancouver","Lower Mainland",49.292413,-123.136069,NA,"",1489,0,0
+"407",407,"6/21/06 15:30","",137,"2360 Yew @ W 8th","Kitsilano","Vancouver","Lower Mainland",49.265102,-123.15505,NA,"",1139,0,0
+"408",408,"6/12/06 14:30","4/19/13 13:00",136,"E 10th & Prince Albert","Mount Pleasant","Vancouver","Lower Mainland",49.261713,-123.095766,NA,"",1225,0,0
+"409",409,"6/9/06 15:00","",135,"675 Salsbury","Grandview-Woodland","Vancouver","Lower Mainland",49.278711,-123.068333,NA,"",862,0,0
+"410",410,"6/9/06 14:30","9/15/09 13:00",134,"Victoria Diversion (OLD)","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.253602,-123.068038,NA,"",549,0,0
+"411",411,"6/9/06 10:00","",132,"Fraser Hall","East Campus","UBC","Lower Mainland",49.261266,-123.240644,NA,"",514,0,0
+"412",412,"6/2/06 19:30","",133,"Patterson SkyTrain","Metrotown","Burnaby","Lower Mainland",49.229081,-123.012156,NA,"",286,0,0
+"413",413,"5/23/06 8:30","8/11/09 5:00",131,"Birch & W 10th","Fairview","Vancouver","Lower Mainland",49.263086,-123.133843,NA,"",1058,0,0
+"414",414,"5/19/06 16:30","",130,"Dunbar & W 5th","Kitsilano","Vancouver","Lower Mainland",49.267625,-123.183736,NA,"",387,0,0
+"415",415,"5/12/06 16:00","",129,"Lord Strathcona","Strathcona","Vancouver","Lower Mainland",49.280236,-123.092505,NA,"",591,0,0
+"416",416,"5/12/06 14:30","9/14/12 18:30",127,"Tidal Flats Co-op","Grandview-Woodland","Vancouver","Lower Mainland",49.27484,-123.075875,NA,"",825,0,0
+"417",417,"5/11/06 23:30","9/30/13 14:00",128,"E 3rd & Semlin","Grandview-Woodland","Vancouver","Lower Mainland",49.267672,-123.063923,NA,"",975,0,0
+"418",418,"4/21/06 5:30","",126,"W 11th & Trafalgar","Kitsilano","Vancouver","Lower Mainland",49.262206,-123.165156,NA,"",690,0,0
+"419",419,"4/20/06 17:00","6/8/09 14:30",125,"E 6th & McLean","Grandview-Woodland","Vancouver","Lower Mainland",49.265228,-123.07683,NA,"",981,0,0
+"420",420,"4/19/06 10:00","",124,"Ontario & King Edward","Riley Park","Vancouver","Lower Mainland",49.249277,-123.104746,NA,"",644,0,0
+"421",421,"4/7/06 0:30","11/4/09 14:00",123,"Courtenay & W 13th","West Point Grey","Vancouver","Lower Mainland",49.261256,-123.200075,NA,"",184,0,0
+"422",422,"1/25/06 11:00","",114,"Vancity North Road","Lougheed","Burnaby","Lower Mainland",49.24803,-122.893238,NA,"",216,0,0
+"423",423,"1/9/06 11:00","",122,"Vine & W 43rd","Kerrisdale","Vancouver","Lower Mainland",49.23234,-123.159335,NA,"",137,0,0
+"424",424,"1/6/06 14:00","",121,"Dunkirk & W King Edward","Dunbar-Southlands","Vancouver","Lower Mainland",49.249662,-123.183453,NA,"",146,0,0
+"425",425,"12/8/05 12:30","",119,"WISE Hall","Grandview-Woodland","Vancouver","Lower Mainland",49.277549,-123.066938,NA,"",921,0,0
+"426",426,"12/8/05 11:00","5/12/10 14:00",117,"West Coast","West End","Vancouver","Lower Mainland",49.290426,-123.138188,NA,"",1767,0,0
+"427",427,"12/8/05 0:00","",118,"Sapperton SkyTrain","Sapperton","New Westminster","Lower Mainland",49.225498,-122.892464,NA,"",122,0,0
+"428",428,"12/7/05 21:00","",120,"Buena Vista","Kitsilano","Vancouver","Lower Mainland",49.273482,-123.160504,NA,"",667,0,0
+"429",429,"11/18/05 17:00","11/14/10 14:00",116,"Ash Court","Fairview","Vancouver","Lower Mainland",49.259319,-123.117503,NA,"",1221,0,0
+"430",430,"11/7/05 20:00","",115,"View Court","Mount Pleasant","Vancouver","Lower Mainland",49.26219,-123.105079,NA,"",1384,0,0
+"431",431,"10/28/05 17:00","9/23/10 16:00",113,"West Drive Estates","Grandview-Woodland","Vancouver","Lower Mainland",49.270556,-123.071369,NA,"",1014,0,0
+"432",432,"10/21/05 4:30","8/27/10 2:30",111,"Wall Centre - CAN 3","Downtown Vancouver","Vancouver","Lower Mainland",49.280096,-123.12585,NA,"",2416,0,0
+"433",433,"10/20/05 22:30","",112,"Logan Lane","Hawthorn Place","UBC","Lower Mainland",49.259272,-123.24625,NA,"",494,0,0
+"434",434,"10/10/05 12:30","8/27/10 15:00",110,"Wall Centre - CAN 2","Downtown Vancouver","Vancouver","Lower Mainland",49.280096,-123.12585,NA,"",2416,0,0
+"435",435,"10/7/05 10:30","",109,"Wall Centre Downtown","Downtown Vancouver","Vancouver","Lower Mainland",49.280096,-123.12585,NA,"",2416,0,0
+"436",436,"9/6/05 17:30","",106,"Picasso","Mount Pleasant","Vancouver","Lower Mainland",49.265452,-123.088953,NA,"",854,0,0
+"437",437,"9/2/05 15:00","",107,"Garden Park","Grandview-Woodland","Vancouver","Lower Mainland",49.267903,-123.058012,NA,"",680,0,0
+"438",438,"9/2/05 11:30","",105,"St. Augustine's","Kitsilano","Vancouver","Lower Mainland",49.265053,-123.150387,NA,"",1129,0,0
+"439",439,"7/28/05 10:30","",108,"W 5th & Chesterfield","Lower Lonsdale","North Vancouver","Lower Mainland",49.316535,-123.078864,NA,"",238,0,0
+"440",440,"7/4/05 8:30","",104,"Avalon","Fairview","Vancouver","Lower Mainland",49.262852,-123.129754,NA,"",1160,0,0
+"441",441,"6/7/05 14:30","10/6/08 12:00",103,"Emery Barnes Park","Downtown Vancouver","Vancouver","Lower Mainland",49.276525,-123.12467,NA,"",1888,0,0
+"442",442,"6/2/05 14:30","",102,"Coal Harbour Community Centre","Coal Harbour","Vancouver","Lower Mainland",49.290097,-123.126193,NA,"",1542,0,0
+"443",443,"4/21/05 0:30","",101,"Windsor & E 11th","Mount Pleasant","Vancouver","Lower Mainland",49.260099,-123.083514,NA,"",896,0,0
+"444",444,"4/20/05 15:00","12/17/12 12:00",100,"Collingwood & W 16th","Kitsilano","Vancouver","Lower Mainland",49.258133,-123.181943,NA,"",320,0,0
+"445",445,"4/12/05 1:00","1/9/17 21:30",98,"SFU Cornerstone","SFU","Burnaby","Lower Mainland",49.278246,-122.910969,NA,"",116,0,0
+"446",446,"4/11/05 1:30","",99,"Nanaimo SkyTrain","Renfrew-Collingwood","Vancouver","Lower Mainland",49.247655,-123.056525,NA,"",305,0,0
+"447",447,"3/17/05 15:00","12/2/08 15:00",97,"St. Pierre","West End","Vancouver","Lower Mainland",49.282969,-123.140315,NA,"",1951,0,0
+"448",448,"3/16/05 0:00","",96,"Woodward's (Cordova Street)","Downtown Vancouver","Vancouver","Lower Mainland",49.283703,-123.107261,NA,"",850,0,0
+"449",449,"3/6/05 7:00","",95,"Joyce SkyTrain","Renfrew-Collingwood","Vancouver","Lower Mainland",49.238833,-123.033531,NA,"",295,0,0
+"450",450,"2/22/05 13:00","",94,"W 14th & Hemlock","Fairview","Vancouver","Lower Mainland",49.259276,-123.135193,NA,"",962,0,0
+"451",451,"1/9/05 10:30","",93,"Toronto Road","East Campus","UBC","Lower Mainland",49.26499,-123.240461,NA,"",412,0,0
+"452",452,"12/17/04 15:30","",92,"Moberly","False Creek","Vancouver","Lower Mainland",49.266277,-123.11963,NA,"",1189,0,0
+"453",453,"12/4/04 22:00","",91,"Frances & Commercial","Grandview-Woodland","Vancouver","Lower Mainland",49.279439,-123.071004,NA,"",752,0,0
+"454",454,"11/26/04 16:30","",90,"Balaclava & W 2nd","Kitsilano","Vancouver","Lower Mainland",49.270078,-123.173682,NA,"",534,0,0
+"455",455,"11/16/04 20:00","",89,"Manitoba & W 16th","Riley Park","Vancouver","Lower Mainland",49.256546,-123.106982,NA,"",1183,0,0
+"456",456,"10/19/04 14:30","4/8/09 14:30",87,"W 15th & Mahon","Central Lonsdale","North Vancouver","Lower Mainland",49.322163,-123.079145,NA,"",207,0,0
+"457",457,"9/10/04 8:00","",85,"Connaught Park","Kitsilano","Vancouver","Lower Mainland",49.260689,-123.157635,NA,"",729,0,0
+"458",458,"8/30/04 5:30","5/11/10 14:30",83,"1355 Harwood @ Broughton","West End","Vancouver","Lower Mainland",49.281868,-123.137574,NA,"",2153,0,0
+"459",459,"8/20/04 23:00","",84,"Britannia Field","Grandview-Woodland","Vancouver","Lower Mainland",49.273975,-123.07225,NA,"",946,0,0
+"460",460,"8/20/04 22:00","5/12/10 15:00",88,"1906 Nelson @ Gilford","West End","Vancouver","Lower Mainland",49.290443,-123.140402,NA,"",1557,0,0
+"461",461,"8/16/04 23:00","",86,"Heather Park","South Cambie","Vancouver","Lower Mainland",49.255295,-123.120982,NA,"",869,0,0
+"462",462,"6/29/04 23:30","",82,"Edmonds SkyTrain","Edmonds","Burnaby","Lower Mainland",49.212657,-122.958835,NA,"",253,0,0
+"463",463,"6/21/04 14:30","9/30/15 15:30",81,"W 10th & Tolmie","West Point Grey","Vancouver","Lower Mainland",49.264178,-123.212008,NA,"",170,0,0
+"464",464,"6/14/04 18:30","10/21/15 14:00",80,"Inverness","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.250229,-123.079928,NA,"",486,0,0
+"465",465,"6/2/04 17:30","2/17/05 15:00",79,"Whistler Creek - Beaver Flats","Whistler","Whistler","Squamish-Lillooet",50.097893,-122.991991,NA,"",1,0,0
+"466",466,"5/31/04 12:00","11/4/05 15:00",78,"Whistler Village","Whistler","Whistler","Squamish-Lillooet",50.117844,-122.956555,NA,"",2,0,0
+"467",467,"3/17/04 6:00","",77,"Central Plaza","West End","Vancouver","Lower Mainland",49.284401,-123.127459,NA,"",2507,0,0
+"468",468,"2/23/04 11:00","3/17/10 15:00",76,"Yukon & W 22nd","Riley Park","Vancouver","Lower Mainland",49.250734,-123.112707,NA,"",657,0,0
+"469",469,"2/16/04 16:30","",75,"Franklin","Grandview-Woodland","Vancouver","Lower Mainland",49.282088,-123.057406,NA,"",634,0,0
+"470",470,"1/21/04 10:30","8/31/15 13:00",73,"Mole Hill - Thurlow Street","West End","Vancouver","Lower Mainland",49.281719,-123.130062,NA,"",2610,0,0
+"471",471,"1/4/04 22:30","9/9/04 8:00",74,"King George SkyTrain (2004)","Surrey City Centre","Surrey","Lower Mainland",49.181793,-122.844777,NA,"",110,0,0
+"472",472,"12/16/03 13:00","",72,"Hampton Place","East Campus","UBC","Lower Mainland",49.258308,-123.23556,NA,"",441,0,0
+"473",473,"11/19/03 5:00","9/30/13 14:00",71,"Lakewood & E 1st","Grandview-Woodland","Vancouver","Lower Mainland",49.270081,-123.061895,NA,"",977,0,0
+"474",474,"11/17/03 13:00","",70,"Fairview Village","Fairview","Vancouver","Lower Mainland",49.264503,-123.134637,NA,"",1069,0,0
+"475",475,"10/28/03 13:30","6/17/09 8:00",69,"Blenheim & W 7th","Kitsilano","Vancouver","Lower Mainland",49.267584,-123.177307,NA,"",548,0,0
+"476",476,"10/20/03 7:30","",68,"E 28th & Prince Edward","Riley Park","Vancouver","Lower Mainland",49.245534,-123.09627,NA,"",472,0,0
+"477",477,"9/3/03 15:00","2/21/14 12:00",67,"Rodger Burns Green","Central Lonsdale","North Vancouver","Lower Mainland",49.328359,-123.070484,NA,"",138,0,0
+"478",478,"8/6/03 11:30","3/18/10 11:30",66,"Ridge Theatre","Kitsilano","Vancouver","Lower Mainland",49.25827,-123.153957,NA,"",562,0,0
+"479",479,"8/6/03 0:00","",65,"Crystal Court","West End","Vancouver","Lower Mainland",49.283051,-123.137989,NA,"",2214,0,0
+"480",480,"7/15/03 17:30","",64,"Renfrew SkyTrain","Renfrew-Collingwood","Vancouver","Lower Mainland",49.259109,-123.044948,NA,"",175,0,0
+"481",481,"6/18/03 2:00","",63,"22nd Street SkyTrain","Connaught Heights","New Westminster","Lower Mainland",49.200451,-122.94874,NA,"",36,0,0
+"482",482,"5/14/03 15:00","1/7/10 23:00",55,"Grace Court","West End","Vancouver","Lower Mainland",49.286987,-123.136338,NA,"",2326,0,0
+"483",483,"5/8/03 18:30","",62,"Richards & Smithe","Downtown Vancouver","Vancouver","Lower Mainland",49.279401,-123.118368,NA,"",1748,0,0
+"484",484,"4/29/03 19:30","",61,"Knightsbridge","West End","Vancouver","Lower Mainland",49.29308,-123.136453,NA,"",1363,0,0
+"485",485,"4/18/03 17:00","",60,"1454 Pendrell @ Broughton","West End","Vancouver","Lower Mainland",49.284538,-123.13618,NA,"",2422,0,0
+"486",486,"4/17/03 19:30","",59,"South Granville Park","Fairview","Vancouver","Lower Mainland",49.259071,-123.14233,NA,"",853,0,0
+"487",487,"4/12/03 4:00","",58,"E 5th & Scotia","Mount Pleasant","Vancouver","Lower Mainland",49.26635,-123.098172,NA,"",1156,0,0
+"488",488,"3/11/03 23:00","",57,"La Contessa","Grandview-Woodland","Vancouver","Lower Mainland",49.267791,-123.074858,NA,"",954,0,0
+"489",489,"2/18/03 14:00","",56,"The Castings","False Creek","Vancouver","Lower Mainland",49.266706,-123.131124,NA,"",1114,0,0
+"490",490,"10/11/02 7:30","",54,"Yanviriya","Grandview-Woodland","Vancouver","Lower Mainland",49.27994,-123.063629,NA,"",809,0,0
+"491",491,"9/30/02 6:30","",52,"Prince Albert","Mount Pleasant","Vancouver","Lower Mainland",49.257353,-123.087019,NA,"",874,0,0
+"492",492,"2/11/02 17:00","",50,"Oceanic-Harwood","West End","Vancouver","Lower Mainland",49.281991,-123.137046,NA,"",2212,0,0
+"493",493,"12/6/01 21:00","3/16/06 14:00",53,"Courtenay","Courtenay","Courtenay","Comox Valley",49.685922,-124.995114,NA,"",0,0,0
+"494",494,"11/29/01 2:30","",23,"W 17th & Tupper","South Cambie","Vancouver","Lower Mainland",49.256142,-123.116197,NA,"",1065,0,0
+"495",495,"","3/9/09 12:00",51,"Cortes","Cortes Island","Cortes Island","Strathcona",50.076065,-124.954609,NA,"",0,0,0
+"496",496,"","",14,"Acadia Road","East Campus","UBC","Lower Mainland",49.263642,-123.236175,NA,"",372,0,0
+"497",497,"","",43,"Metrotown SkyTrain","Metrotown","Burnaby","Lower Mainland",49.225816,-123.004716,NA,"",302,0,0
+"498",498,"","",47,"Waterfront","Downtown Vancouver","Vancouver","Lower Mainland",49.285728,-123.112525,NA,"",887,0,0
+"499",499,"","8/31/09 7:00",2,"The Breakers","West End","Vancouver","Lower Mainland",49.289926,-123.142445,NA,"",1447,0,0
+"500",500,"","",21,"Santana","West End","Vancouver","Lower Mainland",49.282481,-123.135719,NA,"",2379,0,0
+"501",501,"","8/1/08 13:00",32,"Tofino","Tofino","Tofino","Alberni-Clayoquot",49.153549,-125.909568,NA,"",0,0,0
+"502",502,"","",24,"W 12th & Birch","Fairview","Vancouver","Lower Mainland",49.260323,-123.132037,NA,"",1041,0,0
+"503",503,"","1/9/11 23:30",27,"Port Place Mall Ramp","Nanaimo City Centre","Nanaimo","Nanaimo",49.164375,-123.932562,NA,"",21,0,0
+"504",504,"","",11,"Broughton Towers","West End","Vancouver","Lower Mainland",49.288725,-123.129957,NA,"",2146,0,0
+"505",505,"","",22,"Stephens & W 3rd","Kitsilano","Vancouver","Lower Mainland",49.269704,-123.166146,NA,"",763,0,0
+"506",506,"","",4,"Main Street SkyTrain","False Creek","Vancouver","Lower Mainland",49.272521,-123.100764,NA,"",919,0,0
+"507",507,"","",44,"Keefer","Strathcona","Vancouver","Lower Mainland",49.27932,-123.087474,NA,"",419,0,0
+"508",508,"","2/8/08 22:00",7,"Sutton Gardens","West End","Vancouver","Lower Mainland",49.284592,-123.131612,NA,"",2579,0,0
+"509",509,"","",16,"Balsam","Kitsilano","Vancouver","Lower Mainland",49.268898,-123.159801,NA,"",1008,0,0
+"510",510,"","",18,"Maple Community Garden","Kitsilano","Vancouver","Lower Mainland",49.26627,-123.150347,NA,"",1140,0,0
+"511",511,"","5/14/13 16:30",36,"Lonsdale & 5th","Lower Lonsdale","North Vancouver","Lower Mainland",49.315352,-123.074305,NA,"",254,0,0
+"512",512,"","",10,"Horizon","West End","Vancouver","Lower Mainland",49.281281,-123.135695,NA,"",2270,0,0
+"513",513,"","",28,"Guardian Angels","West End","Vancouver","Lower Mainland",49.283907,-123.135372,NA,"",2459,0,0
+"514",514,"","",38,"Kits Beach","Kitsilano","Vancouver","Lower Mainland",49.273308,-123.152365,NA,"",741,0,0
+"515",515,"","",9,"Lily","Grandview-Woodland","Vancouver","Lower Mainland",49.274157,-123.064611,NA,"",1038,0,0
+"516",516,"","",35,"E 19th & Main","Riley Park","Vancouver","Lower Mainland",49.253975,-123.099084,NA,"",947,0,0
+"517",517,"","",26,"W 13th & Columbia","Mount Pleasant","Vancouver","Lower Mainland",49.259402,-123.109749,NA,"",1296,0,0
+"518",518,"","",34,"Laurel","Fairview","Vancouver","Lower Mainland",49.258486,-123.124292,NA,"",1169,0,0
+"519",519,"","",20,"Victoria Park","Grandview-Woodland","Vancouver","Lower Mainland",49.271698,-123.06768,NA,"",1058,0,0
+"520",520,"","",39,"Drake","West End","Vancouver","Lower Mainland",49.278774,-123.132083,NA,"",2273,0,0
+"521",521,"","",13,"City Hall Surface Lot (10th Ave)","Mount Pleasant","Vancouver","Lower Mainland",49.262421,-123.113995,NA,"",1258,0,0
+"522",522,"","",30,"Highbury","West Point Grey","Vancouver","Lower Mainland",49.265594,-123.187614,NA,"",341,0,0
+"523",523,"","5/24/11 18:00",41,"Trutch & W 10th","Kitsilano","Vancouver","Lower Mainland",49.263103,-123.175878,NA,"",547,0,0
+"524",524,"","11/27/11 7:00",48,"Quebec & E 7th","Mount Pleasant","Vancouver","Lower Mainland",49.264946,-123.10276,NA,"",1319,0,0
+"525",525,"","",33,"E 6th & Commercial","Grandview-Woodland","Vancouver","Lower Mainland",49.265175,-123.06761,NA,"",992,0,0
+"526",526,"","",42,"Lyncroft","West End","Vancouver","Lower Mainland",49.286346,-123.13261,NA,"",2508,0,0
+"527",527,"","9/28/12 10:30",12,"IGA","Mount Pleasant","Vancouver","Lower Mainland",49.259271,-123.101247,NA,"",1251,0,0
+"528",528,"","",29,"Stadium SkyTrain","Downtown Vancouver","Vancouver","Lower Mainland",49.28001,-123.111133,NA,"",1298,0,0
+"529",529,"","",37,"Latin Supermarket","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.258614,-123.072119,NA,"",819,0,0
+"530",530,"","4/10/14 11:00",1,"Beach","West End","Vancouver","Lower Mainland",49.277329,-123.134412,NA,"",1861,0,0
+"531",531,"","",3,"W 2nd & Cypress","Kitsilano","Vancouver","Lower Mainland",49.269861,-123.148762,NA,"",979,0,0
+"532",532,"","",5,"Kits House","Kitsilano","Vancouver","Lower Mainland",49.265836,-123.157547,NA,"",1108,0,0
+"533",533,"","",8,"Yaletown/Roundhouse Station","Yaletown","Vancouver","Lower Mainland",49.274488,-123.121801,NA,"",1582,0,0
+"534",534,"","",17,"Westwind","Fairview","Vancouver","Lower Mainland",49.261319,-123.139565,NA,"",1013,0,0
+"535",535,"","5/1/09 5:00",19,"King Charles Court","West End","Vancouver","Lower Mainland",49.289909,-123.134054,NA,"",2048,0,0
+"536",536,"","",15,"E 10th & Commercial","Kensington-Cedar Cottage","Vancouver","Lower Mainland",49.261497,-123.070517,NA,"",922,0,0
+"537",537,"","",45,"Logan Villa","West End","Vancouver","Lower Mainland",49.286385,-123.128566,NA,"",2365,0,0
+"538",538,"","",6,"Pendrell Plaza","West End","Vancouver","Lower Mainland",49.286651,-123.139235,NA,"",2113,0,0
+"539",539,"","",25,"Virginia Court","West End","Vancouver","Lower Mainland",49.291278,-123.136097,NA,"",1724,0,0
+"540",540,"","",40,"Larch & W 6th","Kitsilano","Vancouver","Lower Mainland",49.266747,-123.162267,NA,"",956,0,0
+"541",541,"","2/7/13 12:00",46,"W 8th & Bayswater","Kitsilano","Vancouver","Lower Mainland",49.264964,-123.170506,NA,"",650,0,0
+"542",542,"","",49,"W 10th & Burrard","Fairview","Vancouver","Lower Mainland",49.262688,-123.144485,NA,"",1076,0,0
+"543",543,"","",31,"1080 Barclay @ Thurlow","West End","Vancouver","Lower Mainland",49.282738,-123.126886,NA,"",2594,0,0

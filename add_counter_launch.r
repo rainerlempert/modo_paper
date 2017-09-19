@@ -16,7 +16,7 @@ launch_table <- launch_table[completeVecLatLon1, ]
 
 for (irow in 1:nrow(launch_table)){
   for (jrow in 1:nrow(member_table)){
-    if((distm(member_table[irow,5:4],launch_table[jrow,10:9],fun=distHaversine))<1000){
+    if((distm(member_table[jrow,5:4],launch_table[irow,10:9],fun=distHaversine))<1000){
       launch_table$location_counter[irow]<-launch_table$location_counter[irow]+1
     }
   }
