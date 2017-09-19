@@ -6,7 +6,6 @@ member_table<-read.csv("Datasets/Member_geohashes_Table1.csv")
 
 member_table<-member_table[,1:5]
 member_table<-cbind(member_table,location_counter=0)
-head(member_table)
 #edit member table
 
 completeVecLatLon <- complete.cases(member_table[, 4:5])
