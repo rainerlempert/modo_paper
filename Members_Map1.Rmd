@@ -4,7 +4,7 @@ author: "Members_Map1"
 date: "9/18/2017"
 output: 
   html_document: 
-    keep_md: yes
+    keep_md: TRUE
 ---
 
 ```{r}
