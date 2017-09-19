@@ -12,7 +12,7 @@ library(ggmap)
 ```r
 library(ggplot2)
 
-members_table=read.csv("Datasets/Location_launch_dates.csv") #load the launch dates data table
+members_table=read.csv("Datasets/Member_geohashes_Table1.csv") #load the launch dates data table
 
 vancouver_map=get_map(location="vancouver", maptype="roadmap", zoom=11) #create the map
 ```
@@ -35,7 +35,7 @@ ggmap(vancouver_map, extent = "device")+geom_point(aes(x = Longitude, y = Latitu
 ```
 
 ```
-## Warning: Removed 91 rows containing missing values (geom_point).
+## Warning: Removed 7098 rows containing missing values (geom_point).
 ```
 
 ![](Members_Map1_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
@@ -64,7 +64,7 @@ ggmap(vancouver_map, extent = "device")+geom_point(aes(x = Longitude, y = Latitu
 ```
 
 ```
-## Warning: Removed 127 rows containing missing values (geom_point).
+## Warning: Removed 8818 rows containing missing values (geom_point).
 ```
 
 ![](Members_Map1_files/figure-html/unnamed-chunk-1-2.png)<!-- -->
@@ -89,11 +89,11 @@ scale_fill_gradient(low="green",high="red",guide=FALSE)+scale_alpha(range=c(0,0.
 ```
 
 ```
-## Warning: Removed 127 rows containing non-finite values (stat_density2d).
+## Warning: Removed 8818 rows containing non-finite values (stat_density2d).
 ```
 
 ```
-## Warning: Removed 127 rows containing non-finite values (stat_density2d).
+## Warning: Removed 8818 rows containing non-finite values (stat_density2d).
 ```
 
 ```

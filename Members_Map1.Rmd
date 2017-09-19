@@ -9,7 +9,7 @@ output:
 library(ggmap)
 library(ggplot2)
 
-members_table=read.csv("Datasets/Location_launch_dates.csv") #load the launch dates data table
+members_table=read.csv("Datasets/Member_geohashes_Table1.csv") #load the launch dates data table
 
 vancouver_map=get_map(location="vancouver", maptype="roadmap", zoom=11) #create the map
 
